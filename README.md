@@ -185,26 +185,6 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Shubh Gupta**
-- GitHub: [@ShubhG7](https://github.com/ShubhG7)
-- Project: [Budget Tracker](https://github.com/ShubhG7/Budget-Tracker---Personal-Finance-Management)
-
-## 🙏 Acknowledgments
-
-- Python community for excellent libraries
-- Tkinter developers for the GUI framework
-- SQLite team for the lightweight database
-- Matplotlib contributors for data visualization tools
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/ShubhG7/Budget-Tracker---Personal-Finance-Management/issues) page
-2. Create a new issue with detailed description
-3. Contact the maintainer
 
 ---
 
